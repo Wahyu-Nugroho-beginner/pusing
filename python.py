@@ -4,3 +4,4 @@ e = mungkin ada
 print (c)
 print (d)
 print (e)   
+print ("hello world")
