@@ -7,7 +7,3 @@ print(d)
 e = a / b
 print(e)
 
-ab = "hello"
-ac = "apaapa"
-print(ab)
-print(ac)
