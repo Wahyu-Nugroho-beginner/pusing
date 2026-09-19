@@ -1,0 +1,1 @@
+basing lah ini isi ny ap
